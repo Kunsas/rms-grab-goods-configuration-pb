@@ -1,0 +1,5 @@
+build:
+  version: "3.0"
+
+campaigns:
+  message: "{cipher}7f76fc91dbe49ef6677d385a8f5ebefd822f6f581116ee2fafd5887abe7900ced80022559b3947b703107c1058a6af259439dcd57d4bf628296c423921279ac3db80451ec65c07a35a27ee49b3ef37c5"

@@ -1,0 +1,5 @@
+build:
+  version: "2.0"
+
+cart:
+  message: "{cipher}4cc46b70dbc5b8f9288067e22424531492af60277d1b96f12061e9cadffe42cf19464fc775be1a5d6568b7ed78efd419756de025cd7f82077fb3808b06641f6f"

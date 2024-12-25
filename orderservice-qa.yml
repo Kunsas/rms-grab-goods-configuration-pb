@@ -1,0 +1,5 @@
+build:
+  version: "2.0"
+
+orders:
+  message: "{cipher}86d43b0cee3c810c6b761c31e87e1f239ac2ce892a1e294f0e4b6d5adfab3893c1968b7ab6dd9432b7f165576efbcb4d9afcbfb1fef4a8b2ec3e7742c5a560d9"

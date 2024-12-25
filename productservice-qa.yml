@@ -1,0 +1,5 @@
+build:
+  version: "2.0"
+
+products:
+  message: "{cipher}356426c7c1e9d7c90289e7c2dba151e47b44b671c39abcc942f631458534bc7d4a0497662658e90b87936d7fee697a88cf9b18a1748a6fc1fc4f7dc62b813290"
