@@ -2,4 +2,5 @@ build:
   version: "3.0"
 
 users:
-  message: "{cipher}7dc0e92a20d564d056d49aa295e0d96ad4cb2745a5573b51c0e19663621cfac6f4705d29dabfd4f9c1eac187197bf620e2d65de63aca0ca29821f293ca2cfc8d"
+  # message: "{cipher}7dc0e92a20d564d056d49aa295e0d96ad4cb2745a5573b51c0e19663621cfac6f4705d29dabfd4f9c1eac187197bf620e2d65de63aca0ca29821f293ca2cfc8d"
+  message: "config server refresh test with sping cloud bus and rabbitmq"
